@@ -1,6 +1,6 @@
 # Experiment with reflection
 
-In this two module i've tried to simplify one of my real life issue:
+In this two modules i've tried to simplify one of my real life issue:
 
 Given a package with classes. How can i decide which one is an implementation of a specific class.
 
